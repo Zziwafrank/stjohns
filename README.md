@@ -1,4 +1,3 @@
-Alright, Engineer FNK — here’s a clean **README** for your **St John’s Senior Secondary School Matugga website**. You can copy and edit it if needed:
 
 ---
 
@@ -58,10 +57,4 @@ For any inquiries or support, contact the developer or the school administration
 
 ---
 
-If you want next level 🔥, I can:
 
-* Turn this into a **downloadable README file**
-* Or customize it like a **GitHub-style professional README**
-* Or even link it directly inside your website
-
-Just tell me 👍
